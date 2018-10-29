@@ -72,6 +72,7 @@
             this.btnsearch.TabIndex = 2;
             this.btnsearch.Text = "Search";
             this.btnsearch.UseVisualStyleBackColor = true;
+            this.btnsearch.Click += new System.EventHandler(this.btnsearch_Click);
             // 
             // listBox1
             // 
@@ -81,6 +82,7 @@
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(367, 224);
             this.listBox1.TabIndex = 3;
+            this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
             // lblfirstName
             // 
@@ -109,6 +111,7 @@
             this.clearList.TabIndex = 14;
             this.clearList.Text = "Clear List";
             this.clearList.UseVisualStyleBackColor = true;
+            this.clearList.Click += new System.EventHandler(this.clearList_Click);
             // 
             // lbllastName
             // 
@@ -157,6 +160,7 @@
             this.update.TabIndex = 11;
             this.update.Text = "Update";
             this.update.UseVisualStyleBackColor = true;
+            this.update.Click += new System.EventHandler(this.update_Click);
             // 
             // Add
             // 
@@ -166,6 +170,7 @@
             this.Add.TabIndex = 12;
             this.Add.Text = "Add";
             this.Add.UseVisualStyleBackColor = true;
+            this.Add.Click += new System.EventHandler(this.Add_Click);
             // 
             // delete
             // 
@@ -175,6 +180,7 @@
             this.delete.TabIndex = 15;
             this.delete.Text = "Delete";
             this.delete.UseVisualStyleBackColor = true;
+            this.delete.Click += new System.EventHandler(this.delete_Click);
             // 
             // clear
             // 
@@ -184,6 +190,7 @@
             this.clear.TabIndex = 16;
             this.clear.Text = "Clear";
             this.clear.UseVisualStyleBackColor = true;
+            this.clear.Click += new System.EventHandler(this.clear_Click);
             // 
             // groupBox1
             // 
