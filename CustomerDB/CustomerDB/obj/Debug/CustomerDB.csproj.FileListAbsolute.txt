@@ -1,0 +1,10 @@
+C:\Users\Campbell McChesney\Desktop\Comp.5212Assign2S2_2018-30006500\CustomerDB\CustomerDB\bin\Debug\CustomerDB.exe.config
+C:\Users\Campbell McChesney\Desktop\Comp.5212Assign2S2_2018-30006500\CustomerDB\CustomerDB\bin\Debug\CustomerDB.exe
+C:\Users\Campbell McChesney\Desktop\Comp.5212Assign2S2_2018-30006500\CustomerDB\CustomerDB\bin\Debug\CustomerDB.pdb
+C:\Users\Campbell McChesney\Desktop\Comp.5212Assign2S2_2018-30006500\CustomerDB\CustomerDB\obj\Debug\CustomerDB.csprojAssemblyReference.cache
+C:\Users\Campbell McChesney\Desktop\Comp.5212Assign2S2_2018-30006500\CustomerDB\CustomerDB\obj\Debug\CustomerDB.Form1.resources
+C:\Users\Campbell McChesney\Desktop\Comp.5212Assign2S2_2018-30006500\CustomerDB\CustomerDB\obj\Debug\CustomerDB.Properties.Resources.resources
+C:\Users\Campbell McChesney\Desktop\Comp.5212Assign2S2_2018-30006500\CustomerDB\CustomerDB\obj\Debug\CustomerDB.csproj.GenerateResource.cache
+C:\Users\Campbell McChesney\Desktop\Comp.5212Assign2S2_2018-30006500\CustomerDB\CustomerDB\obj\Debug\CustomerDB.csproj.CoreCompileInputs.cache
+C:\Users\Campbell McChesney\Desktop\Comp.5212Assign2S2_2018-30006500\CustomerDB\CustomerDB\obj\Debug\CustomerDB.exe
+C:\Users\Campbell McChesney\Desktop\Comp.5212Assign2S2_2018-30006500\CustomerDB\CustomerDB\obj\Debug\CustomerDB.pdb
